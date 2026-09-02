@@ -39,3 +39,13 @@ Androidアプリケーション開発の学習を目的として、画面設計�
 * UIデザインの改善
 * 保存機能の改善
 * 対応言語の追加
+
+## スクリーンショット
+
+| ホーム画面 | 診断メニュー | ケーブル診断 |
+|---|---|---|
+| <img src="screenshots/home.png" width="220"> | <img src="screenshots/diagnosis-menu.png" width="220"> | <img src="screenshots/cable-diagnosis.png" width="220"> |
+
+| 診断履歴 | 設定画面 |
+|---|---|
+| <img src="screenshots/diagnosis-history.png" width="220"> | <img src="screenshots/settings.png" width="220"> |
