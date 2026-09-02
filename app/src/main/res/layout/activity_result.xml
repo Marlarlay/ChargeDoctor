@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/result_title"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/tvHealth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="85%"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/status_safe"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tvCurrent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1800 mA"
+        android:textSize="18sp"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/tvTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="32 ℃"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cable_normal"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:text="@string/save_result"
+        android:textSize="16sp"
+        android:layout_marginTop="45dp"/>
+
+    <Button
+        android:id="@+id/btnHome"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:text="@string/back_home"
+        android:textSize="16sp"
+        android:layout_marginTop="30dp"/>
+
+</LinearLayout>

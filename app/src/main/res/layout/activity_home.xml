@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingTop="60dp"
+        android:paddingBottom="30dp">
+
+        <!-- タイトル -->
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_title"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <!-- 画像エリア -->
+        <!-- 中央画像 -->
+        <ImageView
+            android:id="@+id/doctorImage"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/aaa"
+            android:scaleType="fitCenter"/>
+
+        <!-- 診断する -->
+        <Button
+            android:id="@+id/btnDiagnosis"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/diagnosis"
+            android:backgroundTint="#E4DAF6"
+            android:textColor="#000000"/>
+
+        <!-- 診断履歴 -->
+        <Button
+            android:id="@+id/btnHistory"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/history"
+            android:backgroundTint="#E4DAF6"
+            android:textColor="#000000"/>
+
+        <!-- 設定 -->
+        <Button
+            android:id="@+id/btnSetting"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/settings"
+            android:backgroundTint="#E4DAF6"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>

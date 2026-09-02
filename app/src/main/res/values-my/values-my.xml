@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">ChargeDoctor</string>
+    <string name="app_title">အားသွင်းဒေါက်တာ</string>
+    <string name="diagnosis">စစ်ဆေးမည်</string>
+    <string name="history">မှတ်တမ်း</string>
+    <string name="settings">ဆက်တင်</string>
+    <string name="diagnosis_start">စစ်ဆေးမှုစတင်</string>
+    <string name="auto_diagnosis">အလိုအလျောက်စစ်ဆေးမှု</string>
+    <string name="font_setting">စာလုံးအရွယ်အစား</string>
+    <string name="language_setting">ဘာသာစကား</string>
+    <string name="shake_test_title">← ကြိုးလှုပ်စမ်းသပ်မှု</string>
+    <string name="shake_test_instruction">ကျေးဇူးပြု၍ ကြိုးကို အနည်းငယ် လှုပ်ပေးပါ။</string>
+    <string name="checking_connection">ချိတ်ဆက်မှုကို စစ်ဆေးနေသည်...</string>
+    <string name="cable_image">ကြိုးပုံ</string>
+    <string name="shake_test">ကြိုးလှုပ်စမ်းသပ်မှု</string>
+    <string name="shake_test_description">ကြိုး၏ အခြေအနေကို စစ်ဆေးပါ။</string>
+    <string name="diagnosing">စစ်ဆေးနေသည်...</string>
+    <string name="measuring_current">လျှပ်စီးအားကို တိုင်းတာနေသည်</string>
+    <string name="checking_temperature">အပူချိန်ကို စစ်ဆေးနေသည်</string>
+    <string name="analyzing_health">ကျန်းမာရေးအခြေအနေကို ခွဲခြမ်းစိတ်ဖြာနေသည်</string>
+    <string name="cable_connection_test">ကြိုးချိတ်ဆက်မှု စမ်းသပ်ခြင်း</string>
+    <string name="cable_shake_test">ကြိုးလှုပ် စမ်းသပ်ခြင်း</string>
+    <string name="charge_diagnosis">အားသွင်းမှု စစ်ဆေးခြင်း</string>
+    <string name="cable_test">ကြိုး စမ်းသပ်ခြင်း</string>
+    <string name="diagnosis_detail">စစ်ဆေးမှု အသေးစိတ်</string>
+    <string name="date">ရက်စွဲ</string>
+    <string name="health">ကျန်းမာရေး</string>
+    <string name="current">လျှပ်စီး</string>
+    <string name="temperature">အပူချိန်</string>
+    <string name="status">အခြေအနေ</string>
+    <string name="cable_name">ကြိုးအမည်</string>
+    <string name="cable_connection_check">ကြိုးချိတ်ဆက်မှု စစ်ဆေးခြင်း</string>
+    <string name="cable_connected">ကြိုးချိတ်ဆက်ပြီး</string>
+    <string name="connection_status_normal">ချိတ်ဆက်မှုအခြေအနေ : ပုံမှန်</string>
+    <string name="charging_on">အားသွင်းနေသည် : ON</string>
+    <string name="start_diagnosis">စစ်ဆေးမှု စတင်</string>
+    <string name="result_title">စစ်ဆေးမှုရလဒ်</string>
+    <string name="status_safe">အခြေအနေ : လုံခြုံ</string>
+    <string name="cable_normal">ဤကြိုးသည် ပုံမှန်အခြေအနေရှိသည်။</string>
+    <string name="save_result">ရလဒ်ကို သိမ်းမည်</string>
+    <string name="back_home">ပင်မစာမျက်နှာသို့ ပြန်သွားမည်</string>
+    <string name="status_label">အခြေအနေ</string>
+    <string name="message_like_new">ကြိုးသည် အသစ်ကဲ့သို့ ကောင်းမွန်နေပါသည်။</string>
+    <string name="message_usable">ပြဿနာမရှိဘဲ အသုံးပြုနိုင်ပါသည်။</string>
+    <string name="message_deterioration">ဟောင်းနွမ်းလာသော လက္ခဏာများ တွေ့ရှိရသည်။</string>
+    <string name="message_replace">ကြိုးအသစ်လဲရန် အကြံပြုပါသည်။</string>
+    <string name="cable_name_hint">ကြိုးအမည်</string>
+    <string name="input_cable_name">ကြိုးအမည် ထည့်ပါ</string>
+    <string name="cancel">မလုပ်တော့ပါ</string>
+    <string name="save">သိမ်းမည်</string>
+    <string name="not_set">မသတ်မှတ်ရသေး</string>
+    <string name="saved">သိမ်းဆည်းပြီးပါပြီ။</string>
+    <string name="enter_cable_name">ြိုးအမည် ထည့်ပါ</string>
+    <string name="current_language">မြန်မာ ＞</string>
+    <string name="shake_test_result">← လှုပ်ရှားမှုစမ်းသပ်မှု ရလဒ်</string>
+    <string name="no_problem">ပြဿနာမရှိပါ</string>
+    <string name="connection_stable">ချိတ်ဆက်မှုသည် တည်ငြိမ်ပါသည်။</string>
+    <string name="confidence_sample">ယုံကြည်နိုင်မှု 90%</string>
+    <string name="safe">လုံခြုံ</string>
+    <string name="warning">သတိ</string>
+    <string name="danger">အန္တရာယ်</string>
+    <string name="home">ပင်မ</string>
+    <string name="cable_health_description">ကြိုး၏ အခြေအနေကို စစ်ဆေးပါ</string>
+    <string name="diagnosis_content">စစ်ဆေးမည့် အကြောင်းအရာ</string>
+    <string name="diagnosis_instruction">・အားသွင်းလျှပ်စီးကို ၁၀ စက္ကန့်ခန့် တိုင်းတာပြီး ကြိုး၏ အခြေအနေကို စစ်ဆေးပါမည်။&#10;・စစ်ဆေးမှုမလုပ်မီ အားသွင်းကြိုးကို ချိတ်ဆက်ပါ။&#10;・စစ်ဆေးနေစဉ် ကြိုးကို မဖြုတ်ပါနှင့်၊ ဖုန်းကိုလည်း မလှုပ်အောင်ထားပါ။</string>
+    <string name="cable_health_diagnosis">ကြိုးကျန်းမာရေး စစ်ဆေးခြင်း</string>
+    <string name="precautions_title">သတိပြုရန်အချက်များ</string>
+
+    <string name="precaution_overcharge">⚠ အားသွင်းလွန်ကဲမှုကာကွယ်စနစ် သို့မဟုတ် ဘက်ထရီကာကွယ်စနစ်ကို ဖွင့်ထားပါက စစ်ဆေးမှုကို မှန်ကန်စွာ မလုပ်နိုင်ပါ။\n\nစစ်ဆေးမှုမစတင်မီ ဖုန်း၏ ဆက်တင်ထဲမှ အားသွင်းလွန်ကဲမှုကာကွယ်စနစ် သို့မဟုတ် အားသွင်းအကန့်အသတ်ကို ပိတ်ထားပါ။</string>
+
+    <string name="precaution_battery_full">⚠ ဘက်ထရီအား 100% ဖြစ်နေပါက ဖုန်း၏ အားသွင်းထိန်းချုပ်စနစ်ကြောင့် Voltage ကို မှန်ကန်စွာ မတိုင်းတာနိုင်ပါ။\n\nစစ်ဆေးမှုမစတင်မီ ဘက်ထရီအားကို 100% အောက်ထားပါ။</string>
+
+    <string name="start_diagnosis_button">စစ်ဆေးမှု စတင်မည်</string>
+    <string name="cable_not_connected">ကြိုး မချိတ်ဆက်ရသေးပါ</string>
+    <string name="connect_cable">ကျေးဇူးပြု၍ ကြိုးကို ချိတ်ဆက်ပါ။</string>
+
+</resources>

@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ChargeDoctor</string>
+    <string name="app_title">充電ドクター</string>
+    <string name="diagnosis">診断する</string>
+    <string name="history">診断履歴</string>
+    <string name="settings">設定</string>
+    <string name="diagnosis_start">診断開始</string>
+    <string name="auto_diagnosis">自動診断</string>
+    <string name="font_setting">文字サイズ</string>
+    <string name="language_setting">言語設定</string>
+    <string name="shake_test_title">ケーブル揺らしテスト</string>
+    <string name="shake_test_instruction">ケーブルを軽く動かしてください</string>
+    <string name="checking_connection">接続状況を確認中...</string>
+    <string name="cable_image">ケーブル画像</string>
+    <string name="shake_test">ケーブル揺らしテスト</string>
+    <string name="shake_test_description">ケーブルの健康状態を診断します</string>
+    <string name="diagnosing">診断中...</string>
+    <string name="measuring_current">電流を測定しています</string>
+    <string name="checking_temperature">温度を確認しています</string>
+    <string name="analyzing_health">健康度を分析しています</string>
+    <string name="cable_connection_test">ケーブル健康度診断</string>
+    <string name="cable_shake_test">ケーブル揺らしテスト</string>
+    <string name="charge_diagnosis">充電診断</string>
+    <string name="cable_test">ケーブルテスト</string>
+    <string name="diagnosis_detail">診断詳細</string>
+    <string name="date">日時</string>
+    <string name="health">健康度</string>
+    <string name="current">電流</string>
+    <string name="temperature">温度</string>
+    <string name="status">状態</string>
+    <string name="cable_name">ケーブル名</string>
+    <string name="cable_connection_check">ケーブル接続確認</string>
+    <string name="cable_connected">ケーブル接続済み</string>
+    <string name="connection_status_normal">接続状態：正常</string>
+    <string name="charging_on">充電中：ON</string>
+    <string name="start_diagnosis">診断スタート</string>
+    <string name="result_title">診断結果</string>
+    <string name="status_safe">状態 : 安全</string>
+    <string name="cable_normal">このケーブルは正常です</string>
+    <string name="save_result">診断結果を保存</string>
+    <string name="back_home">ホームに戻る</string>
+    <string name="status_label">状態</string>
+    <string name="message_like_new">新品同様の状態です</string>
+    <string name="message_usable">問題なく使用できます</string>
+    <string name="message_deterioration">劣化の兆候があります</string>
+    <string name="message_replace">交換を推奨します</string>
+    <string name="cable_name_hint">ケーブル名</string>
+    <string name="input_cable_name">ケーブル名を入力</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">保存</string>
+    <string name="not_set">未設定</string>
+    <string name="saved">保存しました</string>
+    <string name="enter_cable_name">ケーブル名を入力してください</string>
+    <string name="current_language">日本語 ＞</string>
+    <string name="shake_test_result">揺らしテスト結果</string>
+    <string name="no_problem">異常なし</string>
+    <string name="connection_stable">接続は安定しています。</string>
+    <string name="confidence_sample">信頼度 90%</string>
+    <string name="safe">安全</string>
+    <string name="warning">注意</string>
+    <string name="danger">危険</string>
+    <string name="home">ホーム</string>
+    <string name="cable_health_description">ケーブルの健康状態を診断します</string>
+    <string name="diagnosis_content">【診断内容】</string>
+    <string name="diagnosis_instruction">・充電電流を約10秒間測定し、ケーブルの健康度を診断します。&#10;・診断前に充電ケーブルを接続してください。&#10;・診断中はケーブルを抜かず、端末をできるだけ動かさないでください。&#10;</string>
+    <string name="cable_health_diagnosis">ケーブル健康度診断</string>
+    <string name="precautions_title">注意事項</string>
+
+    <string name="precaution_overcharge">
+⚠ 過充電保護（バッテリー保護）をオンにしていると正常に診断が行われません。\n\n診断を行う前に、スマートフォンの設定から過充電保護（充電上限設定）をオフにしてください。
+</string>
+
+    <string name="precaution_battery_full">
+⚠ バッテリー残量が100％の状態では、スマートフォンの充電制御により電圧を正常に測定できません。\n\nバッテリー残量を100％未満にしてから診断を開始してください。
+</string>
+
+    <string name="start_diagnosis_button">診断を開始する</string>
+    <string name="cable_not_connected">ケーブル未接続</string>
+    <string name="connect_cable">ケーブルを接続してください</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">ChargeDoctor</string>
+    <string name="app_title">Charging Doctor</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="diagnosis_start">Start Diagnosis</string>
+    <string name="auto_diagnosis">Auto Diagnosis</string>
+    <string name="font_setting">Font Size</string>
+    <string name="language_setting">Language</string>
+    <string name="shake_test_title">← Cable Shake Test</string>
+    <string name="shake_test_instruction">Please gently move the cable.</string>
+    <string name="checking_connection">Checking connection...</string>
+    <string name="cable_image">Cable Image</string>
+    <string name="shake_test">Cable Shake Test</string>
+    <string name="shake_test_description">Check the health of the cable.</string>
+    <string name="diagnosing">Diagnosing...</string>
+    <string name="measuring_current">Measuring current</string>
+    <string name="checking_temperature">Checking temperature</string>
+    <string name="analyzing_health">Analyzing health score</string>
+    <string name="cable_connection_test">Cable Connection Test</string>
+    <string name="cable_shake_test">Cable Shake Test</string>
+    <string name="charge_diagnosis">Charge Diagnosis</string>
+    <string name="cable_test">Cable Test</string>
+    <string name="diagnosis_detail">Diagnosis Details</string>
+    <string name="date">Date</string>
+    <string name="health">Health</string>
+    <string name="current">Current</string>
+    <string name="temperature">Temperature</string>
+    <string name="status">Status</string>
+    <string name="cable_name">Cable Name</string>
+    <string name="cable_connection_check">Cable Connection Check</string>
+    <string name="cable_connected">Cable Connected</string>
+    <string name="connection_status_normal">Connection Status: Normal</string>
+    <string name="charging_on">Charging: ON</string>
+    <string name="start_diagnosis">Start Diagnosis</string>
+    <string name="result_title">Diagnosis Result</string>
+    <string name="status_safe">Status : Safe</string>
+    <string name="cable_normal">This cable is in good condition.</string>
+    <string name="save_result">Save Result</string>
+    <string name="back_home">Back to Home</string>
+    <string name="status_label">Status</string>
+    <string name="message_like_new">Like a brand new cable.</string>
+    <string name="message_usable">The cable can be used without any problem.</string>
+    <string name="message_deterioration">Signs of deterioration detected.</string>
+    <string name="message_replace">Replacement is recommended.</string>
+    <string name="cable_name_hint">Cable Name</string>
+    <string name="input_cable_name">Enter Cable Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="not_set">Not Set</string>
+    <string name="saved">Saved successfully.</string>
+    <string name="enter_cable_name">Please enter the cable name.</string>
+    <string name="current_language">English ＞</string>
+    <string name="shake_test_result">← Shake Test Result</string>
+    <string name="no_problem">No Problem</string>
+    <string name="connection_stable">The connection is stable.</string>
+    <string name="confidence_sample">Confidence 90%</string>
+    <string name="safe">Safe</string>
+    <string name="warning">Warning</string>
+    <string name="danger">Danger</string>
+    <string name="home">Home</string>
+    <string name="cable_health_description">Check the health condition of the cable</string>
+    <string name="diagnosis_content">Diagnosis Details</string>
+    <string name="diagnosis_instruction">・Measure charging current for about 10 seconds to diagnose cable health.&#10;・Please connect the charging cable before diagnosis.&#10;・Do not unplug the cable during diagnosis and keep the device as still as possible.</string>
+    <string name="cable_health_diagnosis">Cable Health Diagnosis</string>
+    <string name="precautions_title">Important Notes</string>
+
+    <string name="precaution_overcharge">⚠ If overcharge protection or battery protection is enabled, the diagnosis may not work correctly.\n\nBefore starting the diagnosis, turn off overcharge protection or the charging limit setting in your smartphone settings.</string>
+
+    <string name="precaution_battery_full">⚠ When the battery level is at 100%, the smartphone’s charging control may prevent accurate voltage measurement.\n\nPlease lower the battery level below 100% before starting the diagnosis.</string>
+
+    <string name="start_diagnosis_button">Start Diagnosis</string>
+    <string name="cable_not_connected">Cable Not Connected</string>
+    <string name="connect_cable">Please connect the cable.</string>
+
+</resources>
